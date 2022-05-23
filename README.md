@@ -1,4 +1,4 @@
-- 👩🏻 Olá, eu sou a Thainá, sou da escola CCM Hercília de Paula e silva
+- 👩🏻 Olá, eu sou a Thainá, sou da escola CCM Hercília de Paula e Silva
 - 🗣️ eu estou interessada em fazer novas amizades em pessoas que estão engajadas em compartilhar seus conhecimentos em computação 
 - 🦾nós estamos iniciando nesse ramo de programação onde já realizamos dois projetos em duas biblioteca distintas: Scratch e P5.Js
 - 👥 nós iremos coloborar com códigos destas duas bibliotecas
